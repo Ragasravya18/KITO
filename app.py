@@ -51,7 +51,7 @@ async def visitor_cookie(request: Request, call_next):
     session, is_new = store.ensure_visitor(request.cookies.get(SESSION_COOKIE))
     request.state.kit_session = session
     response = await call_next(request)
-    if is_new and not request.url.path.startswith("/api/"):
+    if is_new and (not request.url.path.startswith("/api/") or request.url.path == "/api/bootstrap"):
         set_cookie(response, session)
     return response
 
