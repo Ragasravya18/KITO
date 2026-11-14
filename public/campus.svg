@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">KIT campus illustration</title>
+  <desc id="desc">A welcoming technology campus with a modern learning building, trees and students walking.</desc>
+  <rect width="900" height="520" rx="36" fill="#e4f2ef"/>
+  <circle cx="735" cy="94" r="48" fill="#ffd08a"/>
+  <path d="M0 360 165 265l166 91 171-115 179 120 145-76 74 42v193H0Z" fill="#c5e2dc"/>
+  <path d="M0 408c143-37 223-25 347 0 132 27 258 34 553-8v120H0Z" fill="#a6d0c7"/>
+  <path d="M206 188h492v222H206z" fill="#fff" stroke="#0d515d" stroke-width="9"/>
+  <path d="M184 191 450 81l268 110Z" fill="#0d515d"/>
+  <path d="M384 104h132v77H384z" fill="#ff791b"/>
+  <path d="M242 220h419v24H242z" fill="#d7ece8"/>
+  <path d="M245 266h71v79h-71zm106 0h71v79h-71zm106 0h71v79h-71zm106 0h71v79h-71z" fill="#b3d8d2"/>
+  <path d="M411 307h79v103h-79z" fill="#0d515d"/>
+  <path d="M432 331h37v79h-37z" fill="#ffb15f"/>
+  <path d="M0 411h900v109H0z" fill="#0d515d" opacity=".08"/>
+  <path d="M91 392c0-42 26-74 59-74s59 32 59 74v55H91z" fill="#237369"/>
+  <circle cx="150" cy="294" r="44" fill="#3e9582"/>
+  <path d="M721 399c0-40 24-70 54-70s54 30 54 70v48H721z" fill="#237369"/>
+  <circle cx="775" cy="308" r="40" fill="#3e9582"/>
+  <circle cx="345" cy="405" r="17" fill="#ff791b"/>
+  <path d="m345 422-19 42h38z" fill="#0d515d"/>
+  <path d="M329 441h32l15 50h-14l-17-34-17 34h-14z" fill="#0d515d"/>
+  <circle cx="555" cy="405" r="16" fill="#f2a04b"/>
+  <path d="m555 421-18 43h36z" fill="#174e58"/>
+  <path d="M539 439h32l14 52h-13l-17-34-17 34h-13z" fill="#174e58"/>
+  <path d="M57 473c198-29 564-26 788 0" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round" opacity=".8"/>
+</svg>

@@ -1,0 +1,1 @@
+"""KIT voice assistant backend."""
